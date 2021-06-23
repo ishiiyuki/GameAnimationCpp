@@ -10,7 +10,7 @@
 #include <windows.h>
 #include <iostream>
 #include "Application.h"
-
+//ウィンドウ入力関数とウィンドウイベント処理関数
 int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int);
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
@@ -23,7 +23,7 @@ int main(int argc, const char** argv) {
 #pragma comment( linker, "/subsystem:windows" )
 #endif
 #pragma comment(lib, "opengl32.lib")
-
+//関連する #define 定数と関数ポインタの型の宣言
 #define WGL_CONTEXT_MAJOR_VERSION_ARB     0x2091
 #define WGL_CONTEXT_MINOR_VERSION_ARB     0x2092
 #define WGL_CONTEXT_FLAGS_ARB             0x2094

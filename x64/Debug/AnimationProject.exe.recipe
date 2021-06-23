@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\C++Project\AnimationProject\x64\Debug\AnimationProject.exe</FullPath>
+      <FullPath>D:\C++Project\GameAnimationCpp\x64\Debug\AnimationProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

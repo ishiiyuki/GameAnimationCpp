@@ -1,1 +1,2 @@
 D:\C++Project\AnimationProject\x64\Debug\AnimationProject.exe
+D:\C++Project\GameAnimationCpp\x64\Debug\AnimationProject.exe
